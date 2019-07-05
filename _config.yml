@@ -1,11 +1,11 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
+title: sohee's blog
+description: My Personal diary
+author: Sohee Kim
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+about: 쉽게만 살아가면 개재밌어 빙고
+disqus_shortname: diary
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/avatar_1.png
 
 enableTags: true
 tagarray: []
@@ -28,18 +28,17 @@ social:
       link: "https://github.com/ssoheekim"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username:
+  fb_appid:
 
 urls:
     - text: About Me
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
-url: "https://agusmakmun.github.io"
+    - text: diary
+      url: /diary/
+url: "https://ssoheekim.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
