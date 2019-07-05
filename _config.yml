@@ -18,10 +18,8 @@ collections:
 social:
     - icon: fa-facebook
       link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.instagram.com/__hang_in_there/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
